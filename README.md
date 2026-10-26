@@ -20,8 +20,3 @@ validation, and operational reporting.
 - HTML5, CSS3, vanilla JavaScript
 - Hosting: Botkeep
 - Domain & DNS: Jetorbit, with HTTPS enabled
-
-## My Role
-I designed, built, deployed, and maintain this website independently
-from writing the code and configuring the domain and DNS, to regular
-content updates.
