@@ -11,6 +11,27 @@
   <meta property="og:image" content="assets/img/hero-0.jpg" />
   <link rel="icon" href="data:," />
   <title>Bot Daily Check-In & Redeem Code Top Heroes</title>
+  <script>
+    (function () {
+      var supported = ['en', 'id', 'ms', 'fil', 'vi', 'th', 'ja', 'zh', 'fr', 'pt', 'ko'];
+      var lang = null;
+      try { lang = localStorage.getItem('claimdaily:lang'); } catch (e) {}
+      if (!lang || supported.indexOf(lang) === -1) {
+        lang = (navigator.language || 'en').split('-')[0].toLowerCase();
+        if (lang === 'tl') lang = 'fil';
+        if (supported.indexOf(lang) === -1) lang = 'en';
+      }
+      window.__CD_INITIAL_LANG__ = lang;
+      document.documentElement.lang = lang === 'pt' ? 'pt-BR' : lang;
+      if (lang !== 'en') {
+        var l = document.createElement('link');
+        l.rel = 'preload';
+        l.as = 'script';
+        l.href = 'assets/lang/' + lang + '.js';
+        document.head.appendChild(l);
+      }
+    })();
+  </script>
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
