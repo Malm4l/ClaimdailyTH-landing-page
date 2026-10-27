@@ -1050,7 +1050,7 @@
       function detectInitialLanguage() {
         try {
           var saved = localStorage.getItem('claimdaily:lang');
-          if (saved && translations[saved]) return saved;
+          if (saved && (saved === 'en' || translations[saved])) return saved;
         } catch (e) {}
         var nav = (navigator.language || 'en').split('-')[0].toLowerCase();
         if (nav === 'tl') nav = 'fil';
