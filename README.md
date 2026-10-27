@@ -15,8 +15,3 @@ validation, and operational reporting.
 - Interactive FAQ section
 - Service information and registration guide
 - Voluntary tip support via QRIS and USDC (Solana)
-
-## Tech Stack
-- HTML5, CSS3, vanilla JavaScript
-- Hosting: Botkeep
-- Domain & DNS: Jetorbit, with HTTPS enabled
