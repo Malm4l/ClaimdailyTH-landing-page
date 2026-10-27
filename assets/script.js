@@ -1011,7 +1011,7 @@
           copyFail: '텍스트를 복사할 수 없습니다'
         }
       };
-      var currentLang = 'en';
+      var currentLang = detectInitialLanguage();
       var langNames = { en: 'English', id: 'Bahasa Indonesia', ms: 'Bahasa Melayu', fil: 'Filipino', vi: 'Tiếng Việt', th: 'ภาษาไทย', ja: '日本語', zh: '中文', fr: 'Français', pt: 'Português (Brasil)', ko: '한국어' };
       var langToggle = document.querySelector('.lang-toggle');
       var langMenu = document.querySelector('.lang-menu');
@@ -1047,6 +1047,15 @@
         });
         if (langCurrent) langCurrent.textContent = langNames[lang] || 'English';
       }
+      function detectInitialLanguage() {
+        try {
+          var saved = localStorage.getItem('claimdaily:lang');
+          if (saved && translations[saved]) return saved;
+        } catch (e) {}
+        var nav = (navigator.language || 'en').split('-')[0].toLowerCase();
+        if (nav === 'tl') nav = 'fil';
+        return translations[nav] ? nav : 'en';
+      }
       function closeLangMenu() {
         langMenu.hidden = true;
         langToggle.setAttribute('aria-expanded', 'false');
@@ -1059,7 +1068,9 @@
       });
       langOptions.forEach(function (opt) {
         opt.addEventListener('click', function () {
-          setLanguage(opt.getAttribute('data-lang'));
+          var chosen = opt.getAttribute('data-lang');
+          setLanguage(chosen);
+          try { localStorage.setItem('claimdaily:lang', chosen); } catch (e) {}
           closeLangMenu();
           langToggle.focus();
         });
@@ -1070,6 +1081,7 @@
       document.addEventListener('keydown', function (event) {
         if (event.key === 'Escape' && !langMenu.hidden) { closeLangMenu(); langToggle.focus(); }
       });
+      setLanguage(currentLang);
 
       var copyButtons = document.querySelectorAll('.copy-btn[data-copy]');
       var toast = document.querySelector('.toast');
