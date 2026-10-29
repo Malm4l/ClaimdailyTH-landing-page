@@ -10,7 +10,7 @@ management dashboard that I use for daily data recapitulation,
 validation, and operational reporting.
 
 ## Features
-- Available in 11 languages (English by default)
+- Available in 11 languages with auto-detects the visitor's language, english fallback if unsupported
 - Responsive design for mobile and desktop
 - Interactive FAQ section
 - Service information and registration guide
