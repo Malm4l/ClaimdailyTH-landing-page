@@ -49,7 +49,7 @@ window.CLAIMDAILY_LANG.vi = {
           orderTitle: 'Đăng ký trong 3 bước.',
           orderIntro: 'Không biểu mẫu, không thanh toán. Chỉ cần follow, gửi DM, rồi chờ xác minh.',
           orderNote: 'Chúng tôi chỉ cần UID tài khoản của bạn: không cần mật khẩu, và không đăng nhập vào game của bạn.',
-          altContact: 'Có câu hỏi trước khi thử? Cứ nhắn trước qua IG <a href="https://instagram.com/kb4r4" target="_blank" rel="noopener noreferrer"><strong>@kb4r4</strong></a> hoặc <strong>(VNW) kbara (S514)</strong> trong game.',
+          altContact: 'Có câu hỏi trước khi thử? Cứ nhắn trước qua IG <a href="https://instagram.com/kb4r4" target="_blank" rel="noopener noreferrer"><strong>@kb4r4</strong></a>.',
           s1t: 'Follow IG @kb4r4',
           s1p: 'Hãy follow tài khoản Instagram <strong>@kb4r4</strong> trước. Đó là yêu cầu duy nhất để dùng bot.',
           s1btn: 'Mở Instagram @kb4r4',

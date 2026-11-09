@@ -49,7 +49,7 @@ window.CLAIMDAILY_LANG.ko = {
           orderTitle: '3단계로 가입하세요.',
           orderIntro: '양식도 결제도 없습니다. 팔로우하고 DM을 보낸 뒤 확인을 기다리기만 하면 됩니다.',
           orderNote: '필요한 것은 계정 UID뿐입니다. 비밀번호도, 게임 로그인도 필요 없습니다.',
-          altContact: '시작하기 전에 궁금한 점이 있나요? 먼저 IG <a href="https://instagram.com/kb4r4" target="_blank" rel="noopener noreferrer"><strong>@kb4r4</strong></a> 또는 게임 내 <strong>(VNW) kbara (S514)</strong>에게 채팅하세요.',
+          altContact: '시작하기 전에 궁금한 점이 있나요? 먼저 IG <a href="https://instagram.com/kb4r4" target="_blank" rel="noopener noreferrer"><strong>@kb4r4</strong></a>에게 채팅하세요.',
           s1t: 'IG @kb4r4 팔로우',
           s1p: '먼저 Instagram 계정 <strong>@kb4r4</strong>를 팔로우하세요. 봇 이용을 위한 유일한 조건입니다.',
           s1btn: 'Instagram @kb4r4 열기',

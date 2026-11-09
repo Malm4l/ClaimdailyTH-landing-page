@@ -49,7 +49,7 @@ window.CLAIMDAILY_LANG.fil = {
           orderTitle: 'Mag-sign up sa 3 hakbang.',
           orderIntro: 'Walang form at walang bayad. Mag-follow lang, magpadala ng DM, saka maghintay ng beripikasyon.',
           orderNote: 'Kailangan lang namin ang UID ng account mo: walang password, at walang pag-log in sa iyong laro.',
-          altContact: 'May tanong bago subukan? Mag-chat ka muna sa IG <a href="https://instagram.com/kb4r4" target="_blank" rel="noopener noreferrer"><strong>@kb4r4</strong></a> o kay <strong>(VNW) kbara (S514)</strong> sa in-game.',
+          altContact: 'May tanong bago subukan? Mag-chat ka muna sa IG <a href="https://instagram.com/kb4r4" target="_blank" rel="noopener noreferrer"><strong>@kb4r4</strong></a>.',
           s1t: 'I-follow ang IG @kb4r4',
           s1p: 'I-follow muna ang Instagram account na <strong>@kb4r4</strong>. Ito ang tanging kailangan para magamit ang bot.',
           s1btn: 'Buksan ang Instagram @kb4r4',

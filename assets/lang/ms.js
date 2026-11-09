@@ -49,7 +49,7 @@ window.CLAIMDAILY_LANG.ms = {
           orderTitle: 'Daftar dalam 3 langkah.',
           orderIntro: 'Tiada borang dan tiada bayaran. Cuma follow, hantar DM, kemudian tunggu pengesahan.',
           orderNote: 'Kami hanya perlukan UID akaun anda, tanpa kata laluan, dan tanpa log masuk ke permainan anda.',
-          altContact: 'Ada soalan sebelum mencuba? Sembang sahaja dulu di IG <a href="https://instagram.com/kb4r4" target="_blank" rel="noopener noreferrer"><strong>@kb4r4</strong></a> atau <strong>(VNW) kbara (S514)</strong> dalam permainan.',
+          altContact: 'Ada soalan sebelum mencuba? Sembang sahaja dulu di IG <a href="https://instagram.com/kb4r4" target="_blank" rel="noopener noreferrer"><strong>@kb4r4</strong></a>.',
           s1t: 'Follow IG @kb4r4',
           s1p: 'Follow akaun Instagram <strong>@kb4r4</strong> dahulu. Itu satu-satunya syarat untuk menggunakan bot.',
           s1btn: 'Buka Instagram @kb4r4',

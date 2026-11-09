@@ -49,7 +49,7 @@ window.CLAIMDAILY_LANG.pt = {
           orderTitle: 'Cadastre-se em 3 passos.',
           orderIntro: 'Sem formulários e sem pagamento. Basta seguir, enviar uma DM e aguardar a verificação.',
           orderNote: 'Precisamos apenas do UID da sua conta: sem senha, e sem fazer login no seu jogo.',
-          altContact: 'Tem alguma dúvida antes de experimentar? Converse primeiro no IG <a href="https://instagram.com/kb4r4" target="_blank" rel="noopener noreferrer"><strong>@kb4r4</strong></a> ou com <strong>(VNW) kbara (S514)</strong> no jogo.',
+          altContact: 'Tem alguma dúvida antes de experimentar? Converse primeiro no IG <a href="https://instagram.com/kb4r4" target="_blank" rel="noopener noreferrer"><strong>@kb4r4</strong></a>.',
           s1t: 'Siga o IG @kb4r4',
           s1p: 'Siga primeiro a conta do Instagram <strong>@kb4r4</strong>. É o único requisito para usar o bot.',
           s1btn: 'Abrir o Instagram @kb4r4',

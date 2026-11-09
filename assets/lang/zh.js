@@ -49,7 +49,7 @@ window.CLAIMDAILY_LANG.zh = {
           orderTitle: '3 步完成注册。',
           orderIntro: '无需填写表格，无需付款。只需关注、发送私信，然后等待验证。',
           orderNote: '我们只需要你的账号 UID，不需要密码，也不会登录你的游戏。',
-          altContact: '试用前有问题？先在 IG <a href="https://instagram.com/kb4r4" target="_blank" rel="noopener noreferrer"><strong>@kb4r4</strong></a> 或游戏内的 <strong>(VNW) kbara (S514)</strong> 聊聊。',
+          altContact: '试用前有问题？先在 IG <a href="https://instagram.com/kb4r4" target="_blank" rel="noopener noreferrer"><strong>@kb4r4</strong></a> 聊聊。',
           s1t: '关注 IG @kb4r4',
           s1p: '先关注 Instagram 账号 <strong>@kb4r4</strong>，这是使用机器人的唯一要求。',
           s1btn: '打开 Instagram @kb4r4',

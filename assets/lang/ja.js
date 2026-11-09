@@ -49,7 +49,7 @@ window.CLAIMDAILY_LANG.ja = {
           orderTitle: '3ステップで登録。',
           orderIntro: 'フォームも支払いもありません。フォローして、DM を送って、確認を待つだけです。',
           orderNote: '必要なのはアカウントの UID だけです。パスワードは不要で、あなたのゲームにログインすることもありません。',
-          altContact: '試す前に質問がありますか？まず IG <a href="https://instagram.com/kb4r4" target="_blank" rel="noopener noreferrer"><strong>@kb4r4</strong></a> か、ゲーム内の <strong>(VNW) kbara (S514)</strong> にチャットしてください。',
+          altContact: '試す前に質問がありますか？まず IG <a href="https://instagram.com/kb4r4" target="_blank" rel="noopener noreferrer"><strong>@kb4r4</strong></a> にチャットしてください。',
           s1t: 'IG @kb4r4 をフォロー',
           s1p: 'まず Instagram アカウント <strong>@kb4r4</strong> をフォローしてください。それがボットを使う唯一の条件です。',
           s1btn: 'Instagram @kb4r4 を開く',

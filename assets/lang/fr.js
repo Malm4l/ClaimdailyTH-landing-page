@@ -49,7 +49,7 @@ window.CLAIMDAILY_LANG.fr = {
           orderTitle: "Inscrivez-vous en 3 étapes.",
           orderIntro: "Aucun formulaire et aucun paiement. Suivez, envoyez un DM, puis attendez la vérification.",
           orderNote: "Nous avons seulement besoin de l'UID de votre compte : aucun mot de passe, et aucune connexion à votre jeu.",
-          altContact: "Une question avant d'essayer ? Discutez d'abord sur IG <a href=\"https://instagram.com/kb4r4\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>@kb4r4</strong></a> ou avec <strong>(VNW) kbara (S514)</strong> dans le jeu.",
+          altContact: "Une question avant d'essayer ? Discutez d'abord sur IG <a href=\"https://instagram.com/kb4r4\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>@kb4r4</strong></a>.",
           s1t: "Suivez l'IG @kb4r4",
           s1p: "Suivez d'abord le c<strong>@kb4r4</strong>. C'est la seule condition pour utiliser le bot.",
           s1btn: "Ouvrir Instagram @kb4r4",

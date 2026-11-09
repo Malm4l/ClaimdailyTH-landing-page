@@ -49,7 +49,7 @@ window.CLAIMDAILY_LANG.id = {
           orderTitle: 'Daftar dalam 3 langkah.',
           orderIntro: 'Tidak ada formulir dan tidak ada pembayaran. Cukup follow, kirim DM, lalu tunggu verifikasi.',
           orderNote: 'Kami hanya membutuhkan UID akunmu, tanpa password dan tanpa login ke dalam game.',
-          altContact: 'Ada pertanyaan sebelum mencoba? Chat aja dulu ke IG <a href="https://instagram.com/kb4r4" target="_blank" rel="noopener noreferrer"><strong>@kb4r4</strong></a> atau <strong>(VNW) kbara (S514)</strong> di in-game.',
+          altContact: 'Ada pertanyaan sebelum mencoba? Chat aja dulu ke IG <a href="https://instagram.com/kb4r4" target="_blank" rel="noopener noreferrer"><strong>@kb4r4</strong></a>.',
           s1t: 'Follow IG @kb4r4',
           s1p: 'Follow dulu akun Instagram <strong>@kb4r4</strong>. Ini satu-satunya syarat untuk memakai bot.',
           s1btn: 'Buka Instagram @kb4r4',

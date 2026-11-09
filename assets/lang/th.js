@@ -49,7 +49,7 @@ window.CLAIMDAILY_LANG.th = {
           orderTitle: 'สมัครใน 3 ขั้นตอน',
           orderIntro: 'ไม่มีแบบฟอร์ม ไม่ต้องจ่ายเงิน แค่กดติดตาม ส่ง DM แล้วรอการยืนยัน',
           orderNote: 'เราต้องการแค่ UID บัญชีของคุณ ไม่ต้องใช้รหัสผ่าน และไม่ต้องล็อกอินเข้าเกมของคุณ',
-          altContact: 'มีคำถามก่อนลองใช้? ทักมาก่อนได้ที่ IG <a href="https://instagram.com/kb4r4" target="_blank" rel="noopener noreferrer"><strong>@kb4r4</strong></a> หรือ <strong>(VNW) kbara (S514)</strong> ในเกม',
+          altContact: 'มีคำถามก่อนลองใช้? ทักมาก่อนได้ที่ IG <a href="https://instagram.com/kb4r4" target="_blank" rel="noopener noreferrer"><strong>@kb4r4</strong></a>',
           s1t: 'กดติดตาม IG @kb4r4',
           s1p: 'กดติดตามบัญชี Instagram <strong>@kb4r4</strong> ก่อน นั่นคือเงื่อนไขเดียวในการใช้บอท',
           s1btn: 'เปิด Instagram @kb4r4',
